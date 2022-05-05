@@ -22,7 +22,7 @@
 
 ## Homeworks
 
-En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) vas a encontrar el repositorio con las homeworks de cada unidad en su correspondiente carpeta.
+En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) no vas a encontrar el repositorio con las homeworks de cada unidad en su correspondiente carpeta.
 
 **IMPORTANTE:** Para ejecutar los tests de cada homework tenes que pararte en la carpeta donde clonaste tu repo (es decir la carpeta donde está este `README.md`) y ejecutar el siguiente comando:
 
